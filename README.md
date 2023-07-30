@@ -46,4 +46,8 @@ We place a strong emphasis on code quality and documentation throughout the proj
 Our aim is to provide valuable resources to the data science and machine learning community. We welcome contributions, feedback, and suggestions to continuously improve the project and empower our models to excel in various applications. Thank you for your support and participation!
 
 ## Demo
+##California Housing
 ![California_Housing](https://github.com/xiayulin123/MovieRate_and_CaliforniaHousing_AI_Model/blob/main/house.png)
+
+## Movie Rate
+![Movie_rate](https://github.com/xiayulin123/MovieRate_and_CaliforniaHousing_AI_Model/blob/main/Movie.png)
