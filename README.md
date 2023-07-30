@@ -44,3 +44,6 @@ We place a strong emphasis on code quality and documentation throughout the proj
 ## Contribution
 
 Our aim is to provide valuable resources to the data science and machine learning community. We welcome contributions, feedback, and suggestions to continuously improve the project and empower our models to excel in various applications. Thank you for your support and participation!
+
+## Demo
+## California Housing
