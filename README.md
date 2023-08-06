@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Jupyter%20Lab-Enabled-orange" alt="Jupyter Lab">
   <img src="https://img.shields.io/badge/Python-3.9.6-blue" alt="Python 3.9.6">
 </p>
-<h2></h2>
+
 ## 🚀 Project Introduction
 
 Welcome to our GitHub project! This repository contains two AI models: one for predicting movie ratings (Movie_Rate) and the other for estimating California housing prices (California_Housing). Leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we collect datasets from sources like Kaggle to train and optimize these models, creating highly efficient and accurate prediction models.
