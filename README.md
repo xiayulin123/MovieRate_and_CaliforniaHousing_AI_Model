@@ -14,6 +14,7 @@ Welcome to our GitHub project! This repository contains two AI models: one for p
 
 ## Key Stages
 
+
 ### Movie Rating Prediction Model (Movie_Rate):
 
 - **Data Collection:** Gather extensive movie-related data, including movie features and user ratings, from sources like Kaggle.
