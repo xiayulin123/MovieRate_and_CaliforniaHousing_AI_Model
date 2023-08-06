@@ -12,7 +12,7 @@
 
 Welcome to our GitHub project! This repository contains two AI models: one for predicting movie ratings (Movie_Rate) and the other for estimating California housing prices (California_Housing). Leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we collect datasets from sources like Kaggle to train and optimize these models, creating highly efficient and accurate prediction models.
 
-## Key Stagesa
+## Key Stages
 
 
 ### Movie Rating Prediction Model (Movie_Rate):
